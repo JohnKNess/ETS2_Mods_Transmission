@@ -1,4 +1,4 @@
-# ETS2_Mods_zionid_Transmission
+# ETS2_Mods_Transmission
 Euro Truck Simulator 2  | Transmission Mod | zionid
 
 ETS Ver. 1.30.x - MOD Ver. 1.21
