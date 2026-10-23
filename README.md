@@ -1,5 +1,5 @@
 # ETS2_Mods_Transmission
-Euro Truck Simulator 2  | Transmission Mod | zionid
+Euro Truck Simulator 2  | Transmission Mod | johnkness
 
 ETS Ver. 1.30.x - MOD Ver. 1.21
 
